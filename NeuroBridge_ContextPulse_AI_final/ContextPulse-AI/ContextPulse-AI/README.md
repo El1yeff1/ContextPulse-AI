@@ -1,2 +1,0 @@
-# ContextPulse-AI
-
