@@ -147,4 +147,4 @@ AI-ya yalnız doğrulanmış metadata JSON-u göndərilir. `privacy` və `source
 `contextpulse\_ai/` qovluğu layihənin ilk Streamlit prototipidir və mock JSON məlumatlarından istifadə edir. Əsas versiya `cp4/`-dür. Prototip `app.py`-də mövcud olmayan `CPAI` paketini import etdiyi üçün olduğu kimi işə düşməyə bilər. İşlətmək istəsəniz, həmin sətri `from ai\_engine import generate\_reentry\_message` ilə əvəz edib `pip install -r requirements.txt` və `streamlit run app.py` icra edin.
 Komanda
 Code of War · NeuroBridge Hackathon
-Mikayıl Məvsumzadə · Elgün Hüseynli · Nuran Əliyev
+Mikayıl Məvsumzadə · Elgün Hüseynli · Nuran Əliyev.
