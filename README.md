@@ -1,4 +1,4 @@
-# 🏡 ContextPulse AI
+#  ContextPulse AI
 
 > **NeuroBridge Hackathon** · Komanda: **Code of War**
 
