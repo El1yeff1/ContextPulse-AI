@@ -152,3 +152,4 @@ def generate_reentry_message(ctx: Dict[str, Any]) -> Dict[str, str]:
         result["source"] = "fallback"
         result["note"] = f"Lokal şablon istifadə olundu ({type(exc).__name__}: {exc})"
         return result
+ 
