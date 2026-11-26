@@ -10,3 +10,4 @@ def load_json(filename: str) -> dict:
     """mock_data/ qovluğundan JSON faylı oxuyub dict qaytarır."""
     with open(MOCK_DIR / filename, "r", encoding="utf-8") as f:
         return json.load(f)
+ 
